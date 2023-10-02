@@ -1,3 +1,3 @@
 # School
-This is for a school assignment.
-Jase Schab
+Name: Jase Schab
+Email: jase.schab@wsu.edu
